@@ -1,0 +1,14 @@
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\bin\Debug\net10.0\første.exe
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\bin\Debug\net10.0\første.deps.json
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\bin\Debug\net10.0\første.runtimeconfig.json
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\bin\Debug\net10.0\første.dll
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\bin\Debug\net10.0\første.pdb
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.AssemblyInfoInputs.cache
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.AssemblyInfo.cs
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.csproj.CoreCompileInputs.cache
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.dll
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\refint\første.dll
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.pdb
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\første.genruntimeconfig.cache
+C:\Users\marzi\OneDrive\Dokumenter\GitHub\CsharpBasic\Første-Ccahrp-mappe\første\obj\Debug\net10.0\ref\første.dll
